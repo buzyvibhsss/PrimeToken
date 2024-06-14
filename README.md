@@ -20,7 +20,7 @@ Click the "+" icon in the left sidebar. Save the file with a .sol extension (e.g
 
 #### 3. Compile the Code:
 
-Click the "Solidity Compiler" tab. Ensure the "Compiler" option is set to "0.8.9". Click "Compile PrimeToken.sol".
+Click the "Solidity Compiler" tab. Ensure the "Compiler" option is set to "0.8.18". Click "Compile PrimeToken.sol".
 
 #### 4. Deploy the Contract:
 
